@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ifecog (Ifeoluwa Ilori)
-- 👀 I’m interested in Back-end Web/ REST API Development (Python/Django Framework/Django REST Framework), Code Testing (Python Unit Test), Front-end Web development (ReactJS), RDBMS (SQL/PostgreSQL), Cloud Deployment (AWS), Data Structures, Algorithms, and Clean Code Architectures.
+- 👀 I’m interested in Back-end Web/API Development (Python/Django Framework/Django REST Framework), Code Testing (Python Unit Test), Front-end Web development (ReactJS), RDBMS (SQL/PostgreSQL), Cloud Deployment (AWS), Data Structures, Algorithms, and Clean Code Architectures.
 - 🌱 I’m currently working on an ECommerce REST API Project, Django-React Integration, and Unit Testing.
 - 💞️ I’m looking to collaborate with like-minded Developers on exciting Web Projects using these amazing tools.
 - 💞️ I’m looking to learn and work with Machine Learning (ML) anf Artificial Intelligence (AI) in the nearest future.
