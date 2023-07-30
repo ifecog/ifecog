@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on a delivery app, Django-React, and Unit Testing.
 - 🌱 I’m currently learning and studying for AWS proceffional certifications.
 - 💞️ I’m looking to collaborate with frontend Developers on exciting Web Projects using these amazing tools.
-- 💞️ I’m looking to learn and work with Machine Learning (ML) anf Artificial Intelligence (AI) in the nearest future.
+- 💞️ I’m looking to learn and work with Cloud Services and Architectures in the nearest future.
 - 📫 How to reach me 👍... https://www.linkedin.com/in/ifeoluwa-ilori-5ab219149
 
 <!---
