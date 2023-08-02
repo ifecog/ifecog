@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on a delivery app and a RESTful API project.
 - 🌱 I’m currently learning and studying for AWS professional certifications.
 - 💞️ I’m looking to collaborate with frontend Developers on exciting Web Projects.
-- 💞️ I’m looking to learn and work with Cloud Services and Architectures in the nearest future.
+- 💞️ I’m looking to learn and work with Cloud Services and Architectures (DevOps) in the nearest future.
 - 📫 How to reach me 👍... https://www.linkedin.com/in/ifeoluwa-ilori-5ab219149
 
 <!---
