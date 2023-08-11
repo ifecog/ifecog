@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning and studying for AWS professional certifications.
 - 💞️ I’m looking to collaborate with frontend Developers on exciting Web Projects.
 - 💞️ I’m looking to learn and work with Cloud Services and Architectures (DevOps) in the nearest future.
-- 📫 How to reach me 👍... https://www.linkedin.com/in/ifeoluwa-ilori-5ab219149
+- 📫 How to reach me 👍
+ https://www.linkedin.com/in/ifeoluwa-ilori-5ab219149
 
 <!---
 ifecog/ifecog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
