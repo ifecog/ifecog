@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ifecog (Ifeoluwa Ilori)
-- 👀 I’m interested in Backend/REST API Development (Python/Django Framework/Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite, Docker, Redis, Unit Test, Cloud Development, SaaS), Data Structures & Algorithms, and Clean Code Architectures.
+- 👀 I’m interested in Backend/REST API Development (Python, Django Framework, Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite), Docker, Redis, Unit Test, Cloud Development, SaaS), Data Structures & Algorithms, and Clean Code Architectures.
 - 🌱 I’m currently working as a Backend Developer in a devevelopment team, on a delivery app that involves the design and implementation of a robust and highly scallable RESTful API.
 - 🌱 I’m currently preparing for an AWS professional certification.
 - 💞️ I’m looking to collaborate with frontend Developers and mobile app developers on exciting Web Projects.
