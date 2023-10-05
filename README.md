@@ -18,7 +18,7 @@
     🌱 I’m currently working as a Backend Developer in a development team, on a delivery app that involves the design and implementation of a robust and highly scalable RESTful API.
   </p>
   <p align="center">
-    🌱 I’m currently preparing for an AWS professional certification.
+    🌱 I am actively learning about cloud services and tools, such as AWS. I am eager to expand my knowledge and skills in this area, and I am confident that I can quickly learn and adapt to new cloud technologies.
   </p>
   <p align="center">
     💞️ I’m looking to collaborate with frontend Developers and mobile app developers on exciting Web Projects.
