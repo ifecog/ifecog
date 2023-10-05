@@ -1,4 +1,37 @@
 <div align="center">
+  <a href="https://www.linkedin.com/in/ifeoluwa-ilori-5ab219149">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
+         alt="LinkedIn">
+  </a>
+  <a href="mailto:ifeoluwasamson90@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-ff69b4?style=flat-square&logo=Gmail&logoColor=white"
+         alt="Email">
+  </a>
+</div>
+<div align="center">
+  <p align="center">
+    👋 Hi, I’m Ifeoluwa Ilori
+  </p>
+  <p align="center">
+    👀 I’m interested in Backend/REST API Development (Python, Django Framework, Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite), Docker, Redis, Unit Test, Cloud Development, SaaS), Data Structures & Algorithms, and Clean Code Architectures.
+  </p>
+  <p align="center">
+    🌱 I’m currently working as a Backend Developer in a development team, on a delivery app that involves the design and implementation of a robust and highly scalable RESTful API.
+  </p>
+  <p align="center">
+    🌱 I’m currently preparing for an AWS professional certification.
+  </p>
+  <p align="center">
+    💞️ I’m looking to collaborate with frontend Developers and mobile app developers on exciting Web Projects.
+  </p>
+  <p align="center">
+    💞️ I’m looking to learn and work with Amazon Cloud Services and Architectures (DevOps) in the nearest future.
+  </p>
+</div>
+
+
+<!---
+<div align="center">
   <h1>👋 Hi, I’m Ifeoluwa Ilori (@ifecog)</h1>
   <p>Welcome to my GitHub profile!</p>
 </div>
@@ -35,7 +68,7 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or simply con
   <a href="https://www.linkedin.com/in/ifeoluwa-ilori-5ab219149"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifeoluwa-ilori-5ab219149"></a>
   <a href="mailto:ifeoluwasamson90@gmail.com"><img src="https://img.shields.io/badge/-Email-ff69b4?style=flat-square&logo=Gmail&logoColor=white"></a>
 </div>
-
+--->
 
 <!---
 ifecog/ifecog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
