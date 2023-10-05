@@ -50,39 +50,7 @@
     <a href="https://reactjs.org/">
       <img src="https://reactjs.org/logo-og.png" alt="ReactJS" height="30">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://developer.mozilla.org/static/img/logo.svg" alt="JavaScript" height="30">
-    </a>
-    <a href="https://html.com/">
-      <img src="https://html.com/wp-content/uploads/HTML-Logo.png" alt="HTML" height="30">
-    </a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-      <img src="https://www.w3.org/Style/CSS/Overview.en.html" alt="CSS" height="30">
-    </a>
-    <a href="https://getbootstrap.com/">
-      <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" height="30">
-    </a>
-    <a href="https://www.docker.com/">
-      <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" height="30">
-    </a>
-    <a href="https://redis.io/">
-      <img src="https://redis.io/images/redis-white.png" alt="Redis" height="30">
-    </a>
-    <a href="https://docs.celeryproject.org/en/stable/">
-      <img src="https://docs.celeryproject.org/en/stable/_images/celery_128x128.png" alt="Celery" height="30">
-    </a>
-    <a href="https://www.rabbitmq.com/">
-      <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" alt="RabbitMQ" height="30">
-    </a>
-    <a href="http://www.cplusplus.com/">
-      <img src="http://www.cplusplus.com/assets/images/logo.png" alt="C++" height="30">
-    </a>
-    <a href="https://www.postman.com/">
-      <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-white.png" alt="Postman" height="30">
-    </a>
-    <a href="https://swagger.io/">
-      <img src="https://swagger.io/img/logo.svg" alt="Swagger UI" height="30">
-    </a>
+    
   </p>
 </div>
 
