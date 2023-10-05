@@ -21,7 +21,7 @@
     🌱 I am actively learning about cloud services and tools, such as AWS. I am eager to expand my knowledge and skills in this area, and I am confident that I can quickly learn and adapt to new cloud technologies.
   </p>
   <p align="center">
-    💞️ I’m looking to collaborate with frontend Developers and mobile app developers on exciting Web Projects.
+    💞️ I’m looking to collaborate with frontend Developers and mobile app developers on exciting Web/Mobile/Cloud Projects.
   </p>
   <p align="center">
     💞️ I’m looking to learn and work with Amazon Cloud Services and Architectures (DevOps) in the nearest future.
