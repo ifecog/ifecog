@@ -23,9 +23,6 @@
   <p align="center">
     💞️ I’m looking to collaborate with frontend Developers and mobile app developers on exciting Web/Mobile/Cloud Projects.
   </p>
-  <p align="center">
-    💞️ I’m looking to learn and work with Amazon Cloud Services and Architectures (DevOps) in the nearest future.
-  </p>
   
   <!-- Logos and links for languages and frameworks -->
   <p align="center">
