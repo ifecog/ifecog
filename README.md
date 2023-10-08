@@ -26,14 +26,12 @@
 
 ## Technologies:
 
-#### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux)
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,solidity)
+![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,djangorestframework,js,react,redux,html,css,bootstrap)
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,mysql,redis)
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,postman,git,github,gitlab,docker,bitbucket,rabbitmq,celery)
+![My Skills](https://skillicons.dev/icons?i=vscode,postman,swaggerui,git,github,gitlab,docker,rabbitmq)
   
 
 </div>
