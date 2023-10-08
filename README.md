@@ -27,11 +27,11 @@
 ## Technologies:
 
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,djangorestframework,js,react,redux,html,css,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,js,react,redux,html,css,bootstrap)
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,mysql,redis)
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,postman,swaggerui,git,github,gitlab,docker,rabbitmq)
+![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,docker,rabbitmq)
   
 
 </div>
