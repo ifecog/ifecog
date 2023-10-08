@@ -23,6 +23,17 @@
   <p align="center">
     💞️ I’m willing to collaborate with Developers in the industry (frontend/backend/mobile) to provide solutions to software problems.
   </p>
+
+## Technologies:
+
+#### Web-Development
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,jquery,react,redux,nodejs,expressjs,next,threejs)
+#### Programming Languages and Frameworks
+![My Skills](https://skillicons.dev/icons?i=python,django,rust,solidity)
+#### Databases
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase)
+#### Tools
+![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker,ai,blender)
   
   <!-- Logos and links for languages and frameworks -->
   <p align="center">
