@@ -27,39 +27,15 @@
 ## Technologies:
 
 #### Web-Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,jquery,react,redux,nodejs,expressjs,next,threejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux)
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=python,django,rust,solidity)
+![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,solidity)
 #### Databases
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase)
+![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,mysql,redis)
 #### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker,ai,blender)
+![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,postman,git,github,gitlab,docker,bitbucket,rabbitmq,celery)
   
-  <!-- Logos and links for languages and frameworks -->
-  <p align="center">
-    <a href="https://www.python.org/">
-      <img src="https://www.python.org/static/img/python-logo.png" alt="Python" height="30">
-    </a>
-    <a href="https://www.djangoproject.com/">
-      <img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" alt="Django" height="30">
-    </a>
-    <a href="https://www.django-rest-framework.org/">
-      <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" height="30">
-    </a>
-    <a href="https://fastapi.tiangolo.com/">
-      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="30">
-    </a>
-    <a href="https://www.postgresql.org/">
-      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="30">
-    </a>
-    <a href="https://www.sqlite.org/">
-      <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" height="30">
-    </a>
-    <a href="https://reactjs.org/">
-      <img src="https://reactjs.org/logo-og.png" alt="ReactJS" height="30">
-    </a>
-    
-  </p>
+
 </div>
 
 
