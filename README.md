@@ -15,16 +15,7 @@
     👀 I’m interested in Backend/REST API Development (Python, Django Framework, Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite), Docker, Redis, Unit Test, Cloud Development, SaaS), Data Structures & Algorithms, and Clean Code Architectures.
   </p>
   <p align="center">
-    🌱 I’m currently working, in a remote capacity, as a Backend Developer for a Logistics Tech Startup, in the development team, on a delivery app that involves the development of a robust and highly scalable RESTful API.
-  </p>
-  <p align="center">
-    🌱 I am actively learning about cloud services and tools, such as AWS. I am eager to expand my knowledge and skills in this area, and I am confident that I can quickly learn and adapt to new cloud technologies.
-  </p>
-  <p align="center">
-    💞️ I’m willing to collaborate with Developers in the industry (frontend/backend/mobile) to provide solutions to software problems.
-  </p>
-
-## Technologies:
+    🌱 I’m currently working, in a remote capacity, as a Backend Developer, for a Logistics Tech Startup, in the development team, on a delivery app, that involves the development of a robust and highly scalable RESTful API, for Mobile/Web Apps:
 
 #### Programming Languages and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,js,react,redux,html,css,bootstrap)
