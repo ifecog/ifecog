@@ -12,7 +12,7 @@
     👋 Hi, I’m Ifeoluwa Ilori
   </p>
   <p align="center">
-    👀 I’m interested in Backend/REST API Development (Python, Django Framework, Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite), Docker, Redis, Unit Test, Cloud Development, SaaS), Data Structures & Algorithms, and Clean Code Architectures.
+    👀 I’m interested in Backend/REST API Development (Python, Django Framework, Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite), Docker, Redis, Unit Test, Debugging, Cloud Development, SaaS), Data Structures & Algorithms, and Clean Code Architectures.
   </p>
   <p align="center">
     🌱 I’m currently working, in a remote capacity, as a Backend Developer, for a Logistics Tech Startup, in the development team, on a delivery app, that involves the development of a robust and highly scalable RESTful API, for Mobile/Web Apps:
