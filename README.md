@@ -9,7 +9,7 @@
 
 <div align="center">
   <p align="center">
-    👋 Hi, I’m Ifeoluwa Ilori. I am a Python Backend Engineer.
+    👋 Hi, I’m Ifeoluwa Ilori. I am a Python Backend Engineer!
   </p>
   <p align="center">
     👀 I’m interested in Backend/REST API Development (Python, Django Framework, Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite), Docker, Redis, Unit Test, Debugging, Cloud Development, SaaS), Data Structures & Algorithms, and Clean Code Architectures.
