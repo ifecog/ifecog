@@ -17,12 +17,9 @@
   <p align="center">
     
 
-#### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,js,react,redux,html,css,bootstrap)
-#### Databases
-![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite,mysql,redis)
-#### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,docker,rabbitmq)
+#### Technologies
+![My Skills](https://skillicons.dev/icons?i=python,postgresql,django,fastapi,sqlite,mysql,redis,js,react,redux,vscode,postman,git,github,gitlab,docker,rabbitmq,html,css,bootstrap)
+
   
 
 </div>
