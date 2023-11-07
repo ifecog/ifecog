@@ -9,7 +9,7 @@
 
 <div align="center">
   <p align="center">
-    👋 Hi, My name is Ifeoluwa Ilori <br /> I am a Backend Software Engineer and I work with the Python Stack.
+    👋 Hi, My name is Ifeoluwa Ilori <br /> I am a Backend Software Engineer. I work with the Python Backend Web Stack.
   </p>
   <p align="center">
     👀 I’m interested in Backend/REST API Development (Python, Django Framework, Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite), Docker, Redis, Unit Test, Debugging, Cloud Deployment, SaaS), Data Structures & Algorithms, and Clean Code Architectures.
