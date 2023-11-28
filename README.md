@@ -12,7 +12,7 @@
     👋 Hi, My name is Ifeoluwa Ilori <br /> I am a Backend Software Engineer.
   </p>
   <p align="center">
-    👀 I am invested in Backend/REST API Development (Python, Django Framework, Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite), Docker, Redis, Unit Test, Debugging, Cloud Deployment, SaaS), Data Structures & Algorithms, and Clean Code Architectures.
+    👀 I am invested in Backend/REST API Development (Python, Django Framework, Django REST Framework, FastAPI, RDBMS (PostgreSQL, SQLite), Docker, Redis, Unit Test, Debugging, Cloud Deployment, SaaS), Data Structures & Algorithms, and Clean Code Architecture.
   </p>
   <p align="center">
     
