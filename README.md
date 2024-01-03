@@ -12,7 +12,7 @@
     👋 Hi there! My name is Ifeoluwa<br /> I am a Backend Software Engineer.
   </p>
   <p align="center">
-    👀 Major area of interests include Backend/REST API Development (Python, Bash, Django Framework, Django Rest Framework, FastAPI, SQL (PostgreSQL, MySQL, SQLite), Docker, Redis, Unit Test, Debugging, Cloud Deployment, SaaS), Data Structures & Algorithms, and Clean Code Architecture.
+    👀 Major areas of interest include Backend/REST API Development (Python, Bash, Django Framework, Django Rest Framework, FastAPI, SQL (PostgreSQL, MySQL, SQLite), Docker, Redis, Unit Test, Debugging, Cloud Deployment, SaaS), Data Structures & Algorithms, and Clean Code Architecture.
   </p>
   <p align="center">
     
