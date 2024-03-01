@@ -9,7 +9,7 @@
 
 <div align="center">
   <p align="center">
-    👋 Hi! I'm Ifeoluwa<br /> I am a Backend Software Engineer
+    👋 Hi! I'm Ifeoluwa<br /> I am a Backend Engineer
   </p>
   <p align="center">
     👀 Major Areas of Focus: Backend/REST API Development (Python, Bash, Django Framework, Django Rest Framework, FastAPI, SQL (PostgreSQL, MySQL, SQLite), Docker, Redis, Unit Test, Debugging, Cloud Deployment, SaaS), Data Structures & Algorithms, and Clean Code Architecture.
