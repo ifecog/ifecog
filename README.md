@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer (Backend Focused, with Frontend Experience)
+Software Engineer (Backend Focused, Frontend Experience)
 
 
 ## 🌐 Socials:
