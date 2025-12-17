@@ -2,8 +2,8 @@
 Software Engineer (Backend)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ifeoluwai_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-ilori-5ab219149/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_darasimii_) [![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=firefox&logoColor=white)](https://ifeoluwai.up.railway.app/) 
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-ilori-5ab219149/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_darasimii_) 
 
 # 💻 Tech Stack
 
